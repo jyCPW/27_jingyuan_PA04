@@ -4,8 +4,11 @@ Unit Testing is to test the smallest units or software components in a program
 Unit Testing is conducted by __________
 Developer
 it is type of(blackbox/whitebox testing)
-
+whitebox testing
 Integration Testing
 What is Integration Testing?
+integration testing is the testing on compilation of codes
 Integration Testing is Conducted by __________
+programmers
 it is type of (blackbox/whitebox testing)
+whitebox testing
